@@ -6,8 +6,3 @@ Convert Docomo feature phone mailboxes to mbox format which can be imported to T
 ドコモガラケーのメールと電話帳のバックアップからThunderbirdにインポート可能なmbox形式を生成できます。
 要アドオン Import/Export Tools
 
-License
-=======
-
-This repo is licensed under BSD 3-clause.
-
